@@ -1,5 +1,7 @@
-#hero {
-    height: 830px;
-    width: 710px;
+body {
+    background-image: url("paper.gif");
+    background-color: #cccccc;
 }
-
+body {
+    background-color: green;
+}
